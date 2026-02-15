@@ -1,6 +1,10 @@
 # Turkcell Yeşil Şebeke
 ## Yapay Zeka Destekli Termo-Dijital İkiz ile Akıllı Soğutma ve Karbon Ayak İzi Optimizasyonu
 
+<p align="center">
+  <img src="logo.png" alt="Turkcell Yeşil Şebeke Logo" width="600"/>
+</p>
+
 ---
 
 ##  Proje Özeti
